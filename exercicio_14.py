@@ -1,0 +1,1 @@
+#Exercício 14: Faça um programa em Python que calcule a seguinte série numérica, dados os valores de x e N: S(x, N) = 1 + x + x2 / 2! + x3 / 3! + . . . + xN / N!
